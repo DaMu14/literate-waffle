@@ -16,7 +16,7 @@ zweiter Text
  
 ```c#
 if(True) {
- print....
+ WriteT
 }
 ```
  
