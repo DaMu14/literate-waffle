@@ -22,7 +22,7 @@ Namespace Quadrat
 {
 program
 {
-static void (string [] args)
+static void Main(string [] args)
 {
 Console.WriteLine("Quadrat!");
 }
