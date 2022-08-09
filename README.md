@@ -6,7 +6,7 @@ zweiter Text
 
 **mein erstes Projekt**
 
-[link] https://www.google.ch/
+[link](https://www.google.ch/)
 
 ![Stadion](https://www.apexexhibit.com/wp-content/uploads/2019/04/Stadium_BV-1.png)
 
@@ -15,21 +15,10 @@ zweiter Text
 | Ball | Fuss |
  
 ```c#
-markdown;
+if(True) {
+ print....
+}
+```
  
-namespace HelloWorld
-{
-class program
-{
-static void Main(string[] args)
-{
-Console.WriteLine("Hello World");
-}
-}
 
-void Main(string[])
-{
-`WriteLine`("Hello World");
-}
-}
 
