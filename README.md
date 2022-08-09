@@ -19,17 +19,10 @@ zweiter Text
 Syntax
 
 Namespace Quadrat
-
 {
-
 program
- 
 {
-
 static void (string [] args)
-
 {
-
 Console.WriteLine("Quadrat!");
-
 {
