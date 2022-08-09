@@ -13,7 +13,4 @@ zweiter Text
 ```c#
 markdown;
 
-name Space
-{
-say hello
-{
+| Header 1| Header 2 |
