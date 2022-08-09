@@ -14,17 +14,15 @@ zweiter Text
  | --- | --- |
 | Ball | Fuss |
  
- 
 ```c#
-Syntax
-
-Namespace Quadrat
+markdown;
+ 
+namespace HelloWorld
 {
 class program
 {
-static void Main(string [] args)
+static void Main(string[] args)
 {
-Console.WriteLine("Quadrat!");
+Console.WriteLine("Hello World");
 }
 }
-
