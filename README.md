@@ -27,7 +27,7 @@ Console.WriteLine("Hello World");
 }
 }
 
-void
+void Main(string[])
 {
 `WriteLine`("Hello World");
 }
