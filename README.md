@@ -27,6 +27,7 @@ Console.WriteLine("Hello World");
 }
 }
 
+void
 {
 WriteLine
 }
