@@ -10,7 +10,7 @@ zweiter Text
 
 ![Stadion](https://www.apexexhibit.com/wp-content/uploads/2019/04/Stadium_BV-1.png)
 
- | Header 1 | Header 2 |
+ | Tor 1 | Tor 2 |
  | --- | --- |
 | Ball | Fuss |
  
