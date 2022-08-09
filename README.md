@@ -15,3 +15,21 @@ zweiter Text
 | Ball | Fuss |
  
  
+```c#
+Syntax
+
+Namespace Quadrat
+
+{
+
+program
+ 
+{
+
+static void (string [] args)
+
+{
+
+Console.WriteLine("Quadrat!");
+
+{
