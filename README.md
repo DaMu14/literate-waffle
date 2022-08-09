@@ -20,7 +20,7 @@ Syntax
 
 Namespace Quadrat
 {
-program
+class program
 {
 static void Main(string [] args)
 {
