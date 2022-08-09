@@ -18,20 +18,17 @@ zweiter Text
 markdown;
  
 namespace HelloWorld
-
 {
-
 class program
-
 {
-
 static void Main(string[] args)
-
 {
-
 Console.WriteLine("Hello World");
-
+}
 }
 
+{
+WriteLine
+}
 }
 
