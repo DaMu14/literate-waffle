@@ -25,4 +25,7 @@ program
 static void (string [] args)
 {
 Console.WriteLine("Quadrat!");
-{
+}
+
+}
+
